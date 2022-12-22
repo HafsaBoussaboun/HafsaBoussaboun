@@ -3,7 +3,6 @@
 <!--
 **HafsaBoussaboun/HafsaBoussaboun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://HafsaBoussaboun.io)
 <h1 align="center">Hi 👋, I'm HAFSA BOUSSABOUN</h1>
 <h3 align="center">A passionate data science and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
