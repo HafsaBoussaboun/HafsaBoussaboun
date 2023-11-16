@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently **Studying data engineering and artificial intelligence**
 
-- 🌱 I’m currently learning **Machine Learning, data analysis, R,Python**
+- 🌱 I’m currently learning **Machine Learning, Cloud Computing, Devops and Python**
 
 - 👯 I’m looking to collaborate on **IT Projects**
 
